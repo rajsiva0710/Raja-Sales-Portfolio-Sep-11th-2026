@@ -1,0 +1,20 @@
+export const PROFILE = {
+  name: "Rajakumar Sivasubramanian",
+  title: "Senior Account Manager",
+  eyebrow: "SENIOR TECHNOLOGY SALES & ACCOUNT MANAGEMENT",
+  heroHeadline: "Enterprise Account Management & Technology Growth Professional",
+  valueProposition: "I help SaaS and technology companies acquire, grow, and retain customers through consultative selling, solution consulting, strategic account management, and structured GTM execution.",
+  heroSupportingCopy: "I help SaaS and technology companies acquire, grow, and retain customers through consultative selling, solution consulting, and strategic account management.",
+  heroSecondaryNarrative: "12+ years of international B2B technology sales experience across SaaS, custom software, AI solutions, enterprise technology and IT services — working across markets including the UAE, USA, Canada, India and APAC.",
+  monogram: "RS",
+  location: "Dubai, UAE",
+  email: "raj.siva0710@gmail.com",
+  phone: "+971-528770047",
+  linkedInUrl: "https://www.linkedin.com/in/rajsiva/",
+  profileImageUrl: "https://www.image2url.com/r2/default/images/1785784733130-463697ea-d4b8-40a6-a8e3-46ef59c33d68.jpg",
+  profileLogoUrl: "https://www.image2url.com/r2/default/images/1785786452111-925fd485-8538-4e02-abc3-60a98eb62066.png",
+  // Strict canonical resume URL - DO NOT change or create alternatives
+  canonicalResumeUrl: "https://raja-sales-resume.linkyhost.com/",
+  calendlyUrl: "https://calendly.com/raj-siva0710/30min",
+  formspreeEndpoint: "https://formspree.io/f/xaqggqzj",
+};
